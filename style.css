@@ -1,3 +1,5 @@
-body { background-color: #8888ff; font-size: 40px; text-align: center; }
+body { background-color: #8888ff; text-align: center; }
 
-button { font-size: 30px; background-color: blue; }
+h1 { font-size: 20px; }
+
+button { font-size: 15px; background-color: blue; }
